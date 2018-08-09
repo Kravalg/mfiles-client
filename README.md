@@ -9,11 +9,11 @@ The API samples is available [here](https://www.m-files.com/mfws/samples.html).
 
 ## Usage
 
+[Documentation](docs/MFilesClient.md)
+
 ### 1. Integrate M-Files to your app
 
 Check out [how to integrate this M-Files client in your app](docs/how-to-integrate.md).
-
-[Methods documentation](docs/MFilesClient.md)
  
 ## Development
 
