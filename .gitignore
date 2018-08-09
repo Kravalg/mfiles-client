@@ -1,0 +1,8 @@
+/Service.Tester
+/vendor
+/docker-compose.override.yml
+/example/keys
+.idea/
+*DS_STORE
+*.DS_STORE
+.env
