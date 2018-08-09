@@ -1,0 +1,491 @@
+{
+  "Path": "/",
+  "Items": [
+    {
+      "FolderContentItemType": 1,
+      "View": {
+        "ID": 2,
+        "Common": true,
+        "Parent": 0,
+        "Depth": 1,
+        "Name": "Par Classe"
+      }
+    },
+    {
+      "FolderContentItemType": 1,
+      "View": {
+        "ID": 5,
+        "Common": true,
+        "Parent": 0,
+        "Depth": 0,
+        "Name": "Verrouillés par Moi"
+      }
+    },
+    {
+      "FolderContentItemType": 1,
+      "View": {
+        "ID": 7,
+        "Common": true,
+        "Parent": 0,
+        "Depth": 0,
+        "Name": "Récemment Modifiés par Moi"
+      }
+    },
+    {
+      "FolderContentItemType": 1,
+      "View": {
+        "ID": 8,
+        "Common": true,
+        "Parent": 0,
+        "Depth": 1,
+        "Name": "Modèles"
+      }
+    },
+    {
+      "FolderContentItemType": 1,
+      "View": {
+        "ID": 9,
+        "Common": true,
+        "Parent": 0,
+        "Depth": 0,
+        "Name": "Tâches affectées à Moi"
+      }
+    },
+    {
+      "FolderContentItemType": 1,
+      "View": {
+        "ID": 10,
+        "Common": true,
+        "Parent": 0,
+        "Depth": 2,
+        "Name": "Par Workflow et Etape"
+      }
+    },
+    {
+      "FolderContentItemType": 1,
+      "View": {
+        "ID": 14,
+        "Common": true,
+        "Parent": 0,
+        "Depth": 0,
+        "Name": "Récemment Accédés par Moi"
+      }
+    },
+    {
+      "FolderContentItemType": 1,
+      "View": {
+        "ID": 15,
+        "Common": true,
+        "Parent": 0,
+        "Depth": 0,
+        "Name": "Favoris"
+      }
+    },
+    {
+      "FolderContentItemType": 1,
+      "View": {
+        "ID": 164,
+        "Common": true,
+        "Parent": 0,
+        "Depth": 2,
+        "Name": "Documents clients"
+      }
+    },
+    {
+      "FolderContentItemType": 1,
+      "View": {
+        "ID": 166,
+        "Common": true,
+        "Parent": 0,
+        "Depth": 1,
+        "Name": "Mon courrier à Fribourg (à copier)"
+      }
+    },
+    {
+      "FolderContentItemType": 1,
+      "View": {
+        "ID": 169,
+        "Common": true,
+        "Parent": 0,
+        "Depth": 2,
+        "Name": "Documents à valider du groupe"
+      }
+    },
+    {
+      "FolderContentItemType": 1,
+      "View": {
+        "ID": 172,
+        "Common": true,
+        "Parent": 0,
+        "Depth": 2,
+        "Name": "Documents polices"
+      }
+    },
+    {
+      "FolderContentItemType": 1,
+      "View": {
+        "ID": 176,
+        "Common": true,
+        "Parent": 0,
+        "Depth": 2,
+        "Name": "GED - Envoi lettre type"
+      }
+    },
+    {
+      "FolderContentItemType": 1,
+      "View": {
+        "ID": 177,
+        "Common": true,
+        "Parent": 0,
+        "Depth": 2,
+        "Name": "GED - Documents traités"
+      }
+    },
+    {
+      "FolderContentItemType": 1,
+      "View": {
+        "ID": 178,
+        "Common": true,
+        "Parent": 0,
+        "Depth": 2,
+        "Name": "Documents sinistres"
+      }
+    },
+    {
+      "FolderContentItemType": 1,
+      "View": {
+        "ID": 179,
+        "Common": true,
+        "Parent": 0,
+        "Depth": 2,
+        "Name": "Documents compagnies"
+      }
+    },
+    {
+      "FolderContentItemType": 1,
+      "View": {
+        "ID": 194,
+        "Common": true,
+        "Parent": 0,
+        "Depth": 1,
+        "Name": "Courrier Service Sinistre"
+      }
+    },
+    {
+      "FolderContentItemType": 1,
+      "View": {
+        "ID": 230,
+        "Common": true,
+        "Parent": 0,
+        "Depth": 1,
+        "Name": "GED - Documents scannés par jour"
+      }
+    },
+    {
+      "FolderContentItemType": 1,
+      "View": {
+        "ID": 238,
+        "Common": true,
+        "Parent": 0,
+        "Depth": 1,
+        "Name": "GED - Envoi lettre personnalisée"
+      }
+    },
+    {
+      "FolderContentItemType": 1,
+      "View": {
+        "ID": 239,
+        "Common": true,
+        "Parent": 0,
+        "Depth": 1,
+        "Name": "GED - Renvoi au gestionnaire"
+      }
+    },
+    {
+      "FolderContentItemType": 1,
+      "View": {
+        "ID": 240,
+        "Common": true,
+        "Parent": 0,
+        "Depth": 1,
+        "Name": "GED - Pour destruction"
+      }
+    },
+    {
+      "FolderContentItemType": 1,
+      "View": {
+        "ID": 241,
+        "Common": true,
+        "Parent": 0,
+        "Depth": 1,
+        "Name": "GED - En attente"
+      }
+    },
+    {
+      "FolderContentItemType": 1,
+      "View": {
+        "ID": 268,
+        "Common": true,
+        "Parent": 0,
+        "Depth": 1,
+        "Name": "GED - Rejets à traiter (documents à classer)"
+      }
+    },
+    {
+      "FolderContentItemType": 1,
+      "View": {
+        "ID": 269,
+        "Common": true,
+        "Parent": 0,
+        "Depth": 1,
+        "Name": "Mon courrier à Fribourg SinPers (à copier)"
+      }
+    },
+    {
+      "FolderContentItemType": 1,
+      "View": {
+        "ID": 284,
+        "Common": true,
+        "Parent": 0,
+        "Depth": 2,
+        "Name": "Documents à valider SinPers du groupe"
+      }
+    },
+    {
+      "FolderContentItemType": 1,
+      "View": {
+        "ID": 386,
+        "Common": true,
+        "Parent": 0,
+        "Depth": 2,
+        "Name": "Documents à classer"
+      }
+    },
+    {
+      "FolderContentItemType": 1,
+      "View": {
+        "ID": 406,
+        "Common": true,
+        "Parent": 0,
+        "Depth": 1,
+        "Name": "GED - Avis de primes à envoyer"
+      }
+    },
+    {
+      "FolderContentItemType": 1,
+      "View": {
+        "ID": 462,
+        "Common": true,
+        "Parent": 0,
+        "Depth": 1,
+        "Name": "GED - Documents à valider - Date"
+      }
+    },
+    {
+      "FolderContentItemType": 1,
+      "View": {
+        "ID": 513,
+        "Common": true,
+        "Parent": 0,
+        "Depth": 0,
+        "Name": "GED - Avis de primes à taguer"
+      }
+    },
+    {
+      "FolderContentItemType": 1,
+      "View": {
+        "ID": 654,
+        "Common": true,
+        "Parent": 0,
+        "Depth": 1,
+        "Name": "GED - Regul à compléter à envoyer"
+      }
+    },
+    {
+      "FolderContentItemType": 1,
+      "View": {
+        "ID": 687,
+        "Common": true,
+        "Parent": 0,
+        "Depth": 0,
+        "Name": "GED - Regul complétées à détruire"
+      }
+    },
+    {
+      "FolderContentItemType": 1,
+      "View": {
+        "ID": 688,
+        "Common": true,
+        "Parent": 0,
+        "Depth": 0,
+        "Name": "GED - Décomptes de prestations à détruire"
+      }
+    },
+    {
+      "FolderContentItemType": 1,
+      "View": {
+        "ID": 854,
+        "Common": true,
+        "Parent": 0,
+        "Depth": 1,
+        "Name": "GED - Documents à taguer Gestionnaire"
+      }
+    },
+    {
+      "FolderContentItemType": 1,
+      "View": {
+        "ID": 855,
+        "Common": true,
+        "Parent": 0,
+        "Depth": 1,
+        "Name": "GED - Documents à taguer Agent 3"
+      }
+    },
+    {
+      "FolderContentItemType": 1,
+      "View": {
+        "ID": 871,
+        "Common": true,
+        "Parent": 0,
+        "Depth": 0,
+        "Name": "Courrier GEI Zurich dès 15.11.17"
+      }
+    },
+    {
+      "FolderContentItemType": 1,
+      "View": {
+        "ID": 915,
+        "Common": true,
+        "Parent": 0,
+        "Depth": 0,
+        "Name": "GED - Avis de primes à détruire"
+      }
+    },
+    {
+      "FolderContentItemType": 3,
+      "TraditionalFolder": {
+        "Item": 2,
+        "Version": -1,
+        "DisplayValue": "Nouveau Dossier Traditionnel"
+      }
+    },
+    {
+      "FolderContentItemType": 3,
+      "TraditionalFolder": {
+        "Item": 16,
+        "Version": -1,
+        "DisplayValue": "Archives P Granges de ST"
+      }
+    },
+    {
+      "FolderContentItemType": 3,
+      "TraditionalFolder": {
+        "Item": 42,
+        "Version": -1,
+        "DisplayValue": "Renouvellements 2016"
+      }
+    },
+    {
+      "FolderContentItemType": 3,
+      "TraditionalFolder": {
+        "Item": 47,
+        "Version": -1,
+        "DisplayValue": "Nouveau Dossier Traditionnel (2)"
+      }
+    },
+    {
+      "FolderContentItemType": 3,
+      "TraditionalFolder": {
+        "Item": 48,
+        "Version": -1,
+        "DisplayValue": "Nouveau Dossier Traditionnel (3)"
+      }
+    }
+  ],
+  "ViewSettingsID": "_vaultroot",
+  "LevelDefinition": "",
+  "TotalCount": 0,
+  "ViewModeInfo": {
+    "ViewMode": 1,
+    "DisplayMode": 2,
+    "MetadataAtRightPane": 1
+  },
+  "FolderUIState": {
+    "BottomPaneBarMinimized": false,
+    "HitHighlightingEnabled": true,
+    "ListingUIState": {
+      "Columns": [
+        {
+          "Name": "Nom",
+          "ID": -1,
+          "Visible": true,
+          "Width": 500,
+          "Flags": 0,
+          "Position": 0
+        },
+        {
+          "Name": "Type",
+          "ID": -2,
+          "Visible": true,
+          "Width": 155,
+          "Flags": 0,
+          "Position": 1
+        },
+        {
+          "Name": "Modifié le",
+          "ID": -14,
+          "Visible": false,
+          "Width": 120,
+          "Flags": 0,
+          "Position": -1
+        },
+        {
+          "Name": "Créé le",
+          "ID": -13,
+          "Visible": false,
+          "Width": 120,
+          "Flags": 0,
+          "Position": -1
+        },
+        {
+          "Name": "Emplacement",
+          "ID": -11,
+          "Visible": false,
+          "Width": 230,
+          "Flags": 0,
+          "Position": -1
+        },
+        {
+          "Name": "Taille",
+          "ID": -3,
+          "Visible": false,
+          "Width": 60,
+          "Flags": 0,
+          "Position": -1
+        },
+        {
+          "Name": "Accédés par Moi",
+          "ID": 81,
+          "Visible": false,
+          "Width": 120,
+          "Flags": 0,
+          "Position": -1
+        }
+      ],
+      "ColumnSortings": [
+        {
+          "ID": -1,
+          "Index": 0,
+          "SortAscending": true
+        }
+      ]
+    },
+    "MetadataEditorInRightPane": true,
+    "RelativeBottomPaneHeight": 4003,
+    "RelativeRightPaneWidth": 4003,
+    "RightPaneBarMinimized": true,
+    "ShowBottomPaneBar": false,
+    "ShowRightPaneBar": true
+  },
+  "FolderDefs": []
+}

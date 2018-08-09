@@ -1,0 +1,14 @@
+default:
+    autoload:
+        Context: '%paths.base%/features'
+    suites:
+        default:
+            paths:
+                features: '%paths.base%/features'
+            contexts:
+                - Context\GetAuthTokenContext
+                - Context\GetAllDocumentsContext
+                - Context\GetItemsInViewContext
+                - Context\GetRootViewItemsContext
+                - Context\DownloadFileContext
+                - Context\SearchResultContext

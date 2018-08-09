@@ -1,0 +1,16 @@
+version: '3'
+services:
+    symfony:
+         hostname: symfony
+         build:
+            context: docker/symfony
+            args:
+                SYMFONY__CACHE_DIR: /dev/shm/symfony/cache
+                SYMFONY__LOGS_DIR: /var/log/symfony
+                UID: 501
+                GID: 20
+         env_file:
+            - .env
+         volumes:
+            - ".:/var/www"
+         shm_size: 256M

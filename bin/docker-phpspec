@@ -1,0 +1,3 @@
+#!/bin/bash
+docker-compose up -d --build > /dev/null &
+./bin/docker-run vendor/bin/phpspec run --format=pretty
